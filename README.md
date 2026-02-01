@@ -2,7 +2,7 @@
 
 > **⚠️ UNMAINTAINED**: This repository is no longer actively maintained. The original author no longer owns a myLink device and is not able to support this plugin. Feel free to fork this repository if you would like to continue development.
 
-[![npm](https://badgen.net/npm/v/homebridge-ring)](https://www.npmjs.com/package/homebridge-ring)
+[![npm](https://badgen.net/npm/v/homebridge-mylink)](https://www.npmjs.com/package/homebridge-mylink)
 [![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
 
 Somfy myLink plugin for [Homebridge](https://github.com/nfarina/homebridge)
