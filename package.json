@@ -3,20 +3,15 @@
   "version": "2.0.5",
   "description": "Somfy myLink plugin for Homebridge.",
   "license": "MIT",
-  "keywords": [
-    "homebridge-plugin",
-    "somfy",
-    "mylink"
-  ],
-  "homepage": "https://github.com/dgreif/homebridge-mylink",
+  "keywords": ["homebridge-plugin", "somfy", "mylink"],
+  "homepage": "https://github.com/homebridge-plugins/homebridge-mylink",
   "bugs": {
-    "url": "https://github.com/dgreif/homebridge-mylink/issues"
+    "url": "https://github.com/homebridge-plugins/homebridge-mylink/issues"
   },
-  "author": "dgreif <dustin.greif@gmail.com>",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dgreif/homebridge-mylink.git"
+    "url": "git://github.com/homebridge-plugins/homebridge-mylink.git"
   },
   "scripts": {
     "test": "eslint '**/*.ts'",
@@ -52,9 +47,5 @@
     "typescript": "4.4.3"
   },
   "dependencies": {},
-  "files": [
-    "CHANGELOG.md",
-    "config.schema.json",
-    "lib"
-  ]
+  "files": ["CHANGELOG.md", "config.schema.json", "lib"]
 }
